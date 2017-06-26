@@ -2,14 +2,17 @@
 
 This Web application in Java is a example that use struts2
 
-### pre requirements
+### Pre requirements
 Install Jdk 7 or 8
+
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 Setup JAVA_HOME environment variable
+
 `set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_101`
 
 Install maven
+
 https://maven.apache.org/install.html
 
 ### Installation

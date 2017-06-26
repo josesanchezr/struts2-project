@@ -1,5 +1,4 @@
 # Web application with struts2
-==========
 
 This Web application in Java is a example that use struts2
 

@@ -41,3 +41,11 @@ To run this web application make the following steps:
 
 #### 1. Run embedded tomcat 7 with maven
 `mvn tomcat7:run`
+
+Open the URL following
+
+`http://localhost:9090/index`
+
+Or
+
+`http://localhost:9090/request.jsp`
